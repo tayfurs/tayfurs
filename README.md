@@ -8,7 +8,15 @@
 # 💻 Teknoloji Bilgilerim:
 ![Python](https://skillicons.dev/icons?i=js,html,css,arduino,cs,discord,bots,eclipse,figma,github,idea,java,mongodb,nodejs,php,py,react,supabase,unreal,unity,vscode,visualstudio,)])
 
-# 📊 GitHub İstatistikleri:
+# 📊 GitHub İstatistiklerim:
 [![](https://visitcount.itsvg.in/api?id=Tayfur&icon=5&color=0)](https://visitcount.itsvg.in)
+
+WakaTime İstatistiklerim
+<details>
+  <summary>
+      Wakatime stats
+  </summary>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tayfurs&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</details>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
